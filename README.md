@@ -1,11 +1,14 @@
 #mage-attack
 
-
 Build a tool based on behat/mink to "attack" a magento installation aka check for the most common problems
 
-
 ## Implemented:
-* local.xml is readable
+* local.xml and config.xml is not readable
+* check for
+* * LICENSE.txt
+* * LICENSE.html
+* * LICENSE_AFL.txt
+* * RELEASE_NOTES.txt
 
 ## Installation and Usage
 
