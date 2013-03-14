@@ -12,9 +12,9 @@ Build a tool based on behat/mink to "attack" a magento installation aka check fo
 
 ## Installation and Usage
 
-1. [Install composer](http://getcomposer.org/doc/01-basic-usage.md#installation)
-2. Install all dependencies: `composer install`
-3. Run behat: `bin/behat`
+1. Follow the installation instructions for MageBehat https://github.com/magento-hackathon/MageBehat
+2. Install this extension
+3. Run behat: `php -f shell/behat.php`
 
 Get something like:
 
