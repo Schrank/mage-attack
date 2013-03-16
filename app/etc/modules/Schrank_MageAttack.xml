@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Schrank_MageAttack>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Schrank_MageAttack>
+    </modules>
+</config>
